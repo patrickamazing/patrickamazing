@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello all!
+# Hello all! 👋
 I am Patrick, 15 years old, and wants to learn how to program many great applications in the future.
 Currently, as stated in my bio, i'm learning how to program in C++ and Java, although mostly Python.
 
-# You can contact me through:
+## You can contact me through:
 Discord// patric#2137 or
 
 E-mail// TheUnderscan@gmail.com
