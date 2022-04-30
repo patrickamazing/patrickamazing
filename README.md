@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello all! 👋
-I am Patrick, 15 years old, and wants to learn how to program many great applications in the future.
+I am Patrick, 15 years old, and want to learn how to program many great applications in the future.
 Currently, as stated in my bio, i'm learning how to program in C++ and Java, although mostly Python.
 
 ## You can contact me through:
