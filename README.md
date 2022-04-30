@@ -18,4 +18,5 @@ Currently, as stated in my bio, i'm learning how to program in C++ and Java, alt
 
 # You can contact me through:
 Discord// patric#2137 or
+
 E-mail// TheUnderscan@gmail.com
